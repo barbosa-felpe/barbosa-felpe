@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou o Felipe 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -49,10 +49,10 @@
 
 ## 🌍 Idiomas
 
-| Idioma     | Nível               |
-|------------|---------------------|
-| 🇧🇷 Português | Nativo              |
-| 🇺🇸 Inglês    | Intermediário (B1/B2) |
+| Idioma     | Nível               | Certificado |
+|------------|---------------------|-------------|
+| 🇧🇷 Português | Nativo              | — |
+| 🇺🇸 Inglês    | Intermediário (B1/B2) | [![EF SET](https://img.shields.io/badge/EF%20SET-B1%2FB2-6C63FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://cert.efset.org/pt/UYoxRi) |
 
 ---
 
@@ -68,10 +68,10 @@
 ## 📬 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/barbosa-felpe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:febarbosa360@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

@@ -1,20 +1,5 @@
 # Olá! Eu sou o Felipe 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🚀 Desenvolvedor **Full Stack** apaixonado por construir produtos do início ao fim
-- 🌎 Inglês nível **Intermediário (B1/B2)**
-- 📚 Sempre estudando e evoluindo
-- 💬 Me chame para conversar sobre projetos, ideias ou tecnologia
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Front-end
@@ -56,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📬 Contato
 
 <p>
@@ -77,7 +53,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=flat-square" alt="Profile views"/>
-</p>
